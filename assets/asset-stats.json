@@ -1,0 +1,9 @@
+{
+  "main": "main-dca319f63e68f8433ec2.js",
+  "vendor/es5-shim": "vendor/es5-shim-dca319f63e68f8433ec2.js",
+  "vendor/es5-sham": "vendor/es5-sham-dca319f63e68f8433ec2.js",
+  "styles": [
+    "styles-dca319f63e68f8433ec2.css",
+    "styles-dca319f63e68f8433ec2.css"
+  ]
+}
